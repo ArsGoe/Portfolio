@@ -3,7 +3,7 @@ import {Inter} from "next/font/google";
 import "./globals.css";
 import Footer from "@/app/Footer/Footer";
 
-const geistSans = Inter({
+const inter = Inter({
     variable: "--font-inter-sans",
     subsets: ["latin"],
 });
@@ -21,7 +21,7 @@ export default function RootLayout({
     return (
         <html lang="en">
         <body
-            className={`${geistSans.variable} antialiased`}
+            className={`${inter.variable} antialiased`}
         >
         <main>{children}</main>
         <Footer/>
