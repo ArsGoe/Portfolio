@@ -87,8 +87,8 @@ const HomePage = () => {
                     Roméo Jacquemin
                 </h1>
                 <p className="mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-400">
-                    Il s'agit de mon portfolio étudiant comptant mes projets réalisés pendant ma formation de BUT
-                    Informatique à l'IUT de Lens
+                    Il s`agit de mon portfolio étudiant comptant mes projets réalisés pendant ma formation de BUT
+                    Informatique à l`IUT de Lens
                 </p>
             </div>
             <h2 className="text-3xl font-bold mb-4 text-text">À PROPOS DE MOI</h2>
