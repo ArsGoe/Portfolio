@@ -87,9 +87,9 @@ const HomePage = () => {
                 <div className="container mx-auto flex flex-col md:flex-row items-center bg-footer">
                     <div className="bg-footer">
                         <h2 className="text-3xl font-bold mb-4 text-text">À PROPOS DE MOI</h2>
-                        <p>Roméo Jacquemin, 20 ans, étudiant à l'IUT de Lens, en BUT Informatique et en intelligence
+                        <p>Roméo Jacquemin, 20 ans, étudiant à l`IUT de Lens, en BUT Informatique et en intelligence
                             artificielle.
-                            Pendant mes trois années à l'IUT de Lens, j'ai pu apprendre à programmer dans différents
+                            Pendant mes trois années à l`IUT de Lens, j`ai pu apprendre à programmer dans différents
                             languages pour différentes tâches,
                             du web, de la base de données, de la POO, etc.
                         </p>
